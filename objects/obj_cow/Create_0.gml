@@ -1,0 +1,1 @@
+animals_cow_init();
